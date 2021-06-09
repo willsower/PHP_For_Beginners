@@ -16,5 +16,9 @@ The benefit of server side programming is the ability that PHP can interact with
 
 [3. Variables](./PHP_Notes/variables.md)
 
+[4. Control Structures](./PHP_Notes/control_structures.md)
+
+[5. Functions](./PHP_Notes/functions.md)
+
 # Contribution 
 For those of you who would like to contribute, feel free to fork then make a PR and update or add any information you see fit. This is under the MIT license.

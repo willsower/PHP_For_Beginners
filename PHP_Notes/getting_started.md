@@ -14,9 +14,10 @@ PHP was originally named **P**ersonal **H**ome **P**age, but was then later rena
 
 ###### Other
 
-- PHP requires a semi colon at the end of each sentence
+- PHP requires a semi colon at the end of each sentence `;`
 - We use `echo` to print out to the screen. This is the equivalent to `print()` in for example Python or `System.out.println` in Java.
 - To concatenate PHP uses `.` This is the equivalent of using a `+` for other languages such as Java/Python.
+- To comment in PHP use `//` or `#` for single line comments. A block comment is `/* ... */`
 
 ```PHP
 echo "Hello " . "World!"; //Will output Hello World!

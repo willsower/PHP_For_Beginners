@@ -11,7 +11,10 @@ The benefit of server side programming is the ability that PHP can interact with
 # Table of Contents
 
 [1. Environment Setup](./environment_setup.md)
+
 [2. Getting Started With PHP](./PHP_Notes/getting_started.md)
+
+[3. Variables](./PHP_Notes/variables.md)
 
 # Contribution 
 For those of you who would like to contribute, feel free to fork then make a PR and update or add any information you see fit. This is under the MIT license.

@@ -1,12 +1,18 @@
 # Variables
 - Variables are named containers for holding data
-- PHP variables start with $
-- Variable names are case sensitive
-- A valid variable name starts with a letter or underscore
+
+###### Variable Naming Conventions
+    - PHP variables start with $
+    - Variable names are case sensitive
+    - A valid variable name starts with a letter or underscore
+    - A variable can't start with a number
+    - A variable can only contain alpha-numeric charachters and underscores
 
 ```PHP
 $variable
 $thisIsAVariable
+$variable2
+$this_works_aswell
 ```
 
 ###### Assigning a value is similiar to other languages

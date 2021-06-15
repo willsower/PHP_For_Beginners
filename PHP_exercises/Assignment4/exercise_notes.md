@@ -28,7 +28,7 @@ Steps:
 
 3.  The final page, Order03.php, validates the color value from order02.php  reads fname and model from the cookies, and displays the information in a message to the user. It also displays an image of the car they have selected. 
 
-4.  There are nine car-color combinations (3 car models x 3 colors). You should use the images located at: [/sandvig/mis314/assignments/a04/images/corvetteBlue.jpg](https://yorktown.cbe.wwu.edu/sandvig/mis314/assignments/a04/images/corvetteBlue.jpg) .
+4.  There are nine car-color combinations (3 car models x 3 colors). You should use the images located at: [images/corvetteBlue.jpg](https://yorktown.cbe.wwu.edu/sandvig/mis314/assignments/a04/images/corvetteBlue.jpg) .
 
     The image names are:
 

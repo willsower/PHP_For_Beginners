@@ -48,6 +48,6 @@ The exercise uses include files for the header, footer and left menu. The body o
 
 -   You will create six files for this assignment: Lion.php, Giraffe.php, monkey.php are content pages. They will use include statements to insert the header, footer and menu.
 
--   header.html, footer.html and menu.html contain only HTML. These files should not contain page-level tags <head> <body> <title> etc. since these are in the parent php file. Use your browser's "view source" to see the HTML in the sample.  You may copy the HTML from the example or create your own.![Restore Files](https://yorktown.cbe.wwu.edu/sandvig/mis314/images/RestoreFolder.png)
+-   header.html, footer.html and menu.html contain only HTML. These files should not contain page-level tags <head> <body> <title> etc. since these are in the parent php file. Use your browser's "view source" to see the HTML in the sample.  You may copy the HTML from the example or create your own.
 
 **3\. [ClockLoop.php](http://yorktown.cbe.wwu.edu/sandvig/mis314/lectures/L01/ClockLoop.php)** -- Add a [for loop](https://www.w3schools.com/php/php_looping_for.asp) to the example [Clock.php](http://yorktown.cbe.wwu.edu/sandvig/mis314/lectures/L01/Clock.php) ([ source](http://yorktown.cbe.wwu.edu/sandvig/mis314/lectures/L01/Clock.php.txt)) to display the date 10 times. To add line breaks between iterations the echo statement will need to include paragraph, div, or br tags.
